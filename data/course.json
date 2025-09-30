@@ -1,0 +1,52 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Astrophysics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Theoretical Physics"
+    ]
+  ],
+  "legacy_uid": "8441198f-a147-0d75-6f1c-ebc3104ff77d",
+  "instructors": {
+    "content": [
+      "3d0b085b-3b49-dc03-1a30-85de9ff67612"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6048b3f7-8009-b55a-0e0e-d59426799317",
+    "website": "8-286-the-early-universe-fall-2013"
+  },
+  "course_title": "The Early Universe",
+  "hide_download": true,
+  "course_description": "The Early Universe provides an introduction to modern cosmology. The first part of the course deals with the classical cosmology, and later part with modern particle physics and its recent impact on cosmology.\n\nIn the News\n-----------\n\nFor more about Professor Guth's work, [listen to this interview](http://www.wbur.org/2015/02/26/visionaries-alan-guth-mit) from WBUR, Boston's National Public Radio news station.\n\nYou may also be interested in this MIT Alumni Association Podcast [Inflationary Cosmology\u2014Is Our Universe Part of a Multiverse?](https://alum.mit.edu/slice/podcast-inflationary-cosmology-our-universe-part-multiverse) with Professor Guth.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.286",
+  "course_image_thumbnail": {
+    "content": "c9687132-5733-6590-e2bf-aff71cf137eb",
+    "website": "8-286-the-early-universe-fall-2013"
+  },
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets",
+    "Exams with Solutions"
+  ],
+  "site_uid": "30c84e92-5e3d-4db6-b923-a8f3b63f9e07",
+  "site_short_id": "8.286-fall-2013",
+  "site_url_path": "courses/8-286-the-early-universe-fall-2013",
+  "title": "Course Metadata"
+}
